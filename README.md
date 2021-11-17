@@ -1,3 +1,3 @@
-#this is my git-remote exercise.
--1
--2
+# this is my git-remote exercise.
+- first line.
+- second line.
